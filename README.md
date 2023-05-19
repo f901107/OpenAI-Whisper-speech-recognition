@@ -1,4 +1,4 @@
-# OpenAI-Whisper-speech-recognition
+# OpenAI_Whisper_speech_recognitio_colab
 OpenAI 的 Whisper 語音辨識
 * 可使用 .txt 檔案放要辨識的清單。
 * 可自訂字幕檔要儲存的資料夾。
