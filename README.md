@@ -1,4 +1,7 @@
 # OpenAI_Whisper_speech_recognition_colab
+[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f901107/OpenAI-Whisper-speech-recognition/blob/main/OpenAI_Whisper_speech_recognitio_colab.ipynb)
+
+
 OpenAI 的 Whisper 語音辨識
 * 可使用 .txt 檔案放要辨識的清單。
 * 可自訂字幕檔要儲存的資料夾。
