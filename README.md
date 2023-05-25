@@ -2,9 +2,8 @@
 [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f901107/OpenAI-Whisper-speech-recognition/blob/main/OpenAI_Whisper_speech_recognitio_colab.ipynb)
 
 OpenAI 的 Whisper 語音辨識
-* 上傳檔案到 Google Drive 檔案按右鍵"共用"->一般存取權選"知道連結的任何人"->點下方複製連結，將連結貼到「url」欄位中執行程式即可辨識音檔。
-* 支援檔案格式: 影片(mp4)、音檔(mp3、m4a、wav) 的 url、.txt檔(多個檔案連結)、YouTube 影片分享連結、YouTube撥放列表連結。
-* 可使用.txt 檔案放要辨識的清單。
+* 上傳檔案到 Google Drive ，檔案按右鍵"共用"->選一般存取權->選"知道連結的任何人"->點下方複製連結，將連結貼到程式的「url」欄位中執行程式即可辨識語音檔按轉成文字或字幕檔。
+* 支援檔案格式: 影片(mp4)、音檔(mp3、m4a、wav) 的連結、讀取.txt檔(多個檔案連結)、YouTube 影片分享連結、YouTube撥放列表連結。
 * 可自訂字幕檔要儲存的資料夾。
 * 可自訂是否要跳過已辨識過的。
 * yt-dlp 下載影音檔案。
