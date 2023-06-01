@@ -1,5 +1,5 @@
 # OpenAI_Whisper_speech_recognition_colab
-[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f901107/OpenAI-Whisper-speech-recognition/blob/main/OpenAI_Whisper_speech_recognitio_colab.ipynb)
+[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f901107/OpenAI-Whisper-speech-recognition/blob/main/OpenAI_Whisper_speech_recognition_colab.ipynb)
 
 OpenAI 的 Whisper 語音辨識
 * 上傳檔案到 Google Drive ，檔案按右鍵"共用"->選一般存取權->選"知道連結的任何人"->點下方複製連結，將連結貼到程式的「url」欄位中執行程式即可辨識語音檔按轉成文字或字幕檔。
